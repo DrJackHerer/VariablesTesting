@@ -1,0 +1,14 @@
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\bin\Debug\netcoreapp3.1\Variables Ex.exe
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\bin\Debug\netcoreapp3.1\Variables Ex.deps.json
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\bin\Debug\netcoreapp3.1\Variables Ex.runtimeconfig.json
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\bin\Debug\netcoreapp3.1\Variables Ex.runtimeconfig.dev.json
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\bin\Debug\netcoreapp3.1\Variables Ex.dll
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\bin\Debug\netcoreapp3.1\Variables Ex.pdb
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\obj\Debug\netcoreapp3.1\Variables Ex.csproj.AssemblyReference.cache
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\obj\Debug\netcoreapp3.1\Variables Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\obj\Debug\netcoreapp3.1\Variables Ex.AssemblyInfoInputs.cache
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\obj\Debug\netcoreapp3.1\Variables Ex.AssemblyInfo.cs
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\obj\Debug\netcoreapp3.1\Variables Ex.csproj.CoreCompileInputs.cache
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\obj\Debug\netcoreapp3.1\Variables Ex.dll
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\obj\Debug\netcoreapp3.1\Variables Ex.pdb
+C:\Users\Jack Herer\Desktop\repos\Csharp27\Variables Ex\Variables Ex\obj\Debug\netcoreapp3.1\Variables Ex.genruntimeconfig.cache
